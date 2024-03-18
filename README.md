@@ -50,4 +50,4 @@ print(horas)
 
 **Autor**: Bruno Azevedo
 
-**Link do Repositório no GitHub**: Seu Link do Repositório no GitHub
+**Link do Repositório no GitHub**: https://github.com/brunoazvdo/DataScienceEcosystem.ipynb/tree/main
